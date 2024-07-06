@@ -7,7 +7,7 @@ Was ihr damit macht ist euere Sache.
 
 ## Version 1.4
 
-## Code Beispiel für den Socket Client:
+### Code Beispiel für den Socket Client:
 ```java
 Manager m = new Manager();
 m.setName(temp);
