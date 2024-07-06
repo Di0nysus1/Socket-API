@@ -1,4 +1,5 @@
 # Die gute alte Socket API
+made with Eclipse
 
 Die Api ist dafür gemacht um eine stabile Verbindung mit auto reconnect zwischen einem Server und vielen Clients aufzubauen. Ein Anwendungs-Beispiel wäre ein IRC Chat innerhalb eines Minecraft Clients zwischen anderen Benutzern des Minecraft Clients.
 
