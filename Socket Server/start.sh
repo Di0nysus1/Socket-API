@@ -1,0 +1,1 @@
+screen -S socketserver java -Xmx512m -jar -Dfile.encoding=UTF-8 Server.jar
