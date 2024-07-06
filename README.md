@@ -7,5 +7,14 @@ Was ihr damit macht ist euere Sache.
 
 ## Version 1.4
 
+## Code Beispiel für den Socket Client:
+```java
+Manager m = new Manager();
+m.setName(temp);
+m.start();
+
+m.sendDataPackage(new DataPackage("MSG", IDHelper.getEncodedID(), "Hello World!"));
+```
+
 ![Server-Client connection](pic-1.png)
 ![Ping und Login erklaert](pic-2.png)
